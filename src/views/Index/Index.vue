@@ -1,0 +1,9 @@
+<template>
+    <el-row>
+        <el-col>
+            <el-card>
+                个人中心
+            </el-card>
+        </el-col>
+    </el-row>
+</template>
