@@ -46,25 +46,25 @@
         </el-menu-item-group>
       </el-submenu>
 
-      <el-submenu index="4">
+      <el-submenu index="5">
         <template slot="title">
           <i class="el-icon-set-up"></i>
           <span>服务器管理</span>
         </template>
         <el-menu-item-group>
-          <el-menu-item index="4-1">添加服务器</el-menu-item>
-          <el-menu-item index="4-2">服务器状态</el-menu-item>
+          <el-menu-item index="5-1">添加服务器</el-menu-item>
+          <el-menu-item index="5-2">服务器状态</el-menu-item>
         </el-menu-item-group>
       </el-submenu>
 
-      <el-submenu index="5">
+      <el-submenu index="6">
         <template slot="title">
           <i class="el-icon-money"></i>
           <span>财务管理</span>
         </template>
         <el-menu-item-group>
-          <el-menu-item index="5-1">分成设置</el-menu-item>
-          <el-menu-item index="5-2">分润列表</el-menu-item>
+          <el-menu-item index="6-1">分成设置</el-menu-item>
+          <el-menu-item index="6-2">分成列表</el-menu-item>
         </el-menu-item-group>
       </el-submenu>
       
